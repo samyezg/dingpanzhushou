@@ -1,5 +1,7 @@
 # Stock Alert Assistant（盯盘助手）
 
+Hi, I'm Samye — a Flutter developer. This repo shows the core Dart architecture of my shipped A-share stock alert app.
+
 Flutter source slice for an A-share watchlist alert app: rule-based local notifications during continuous auction hours.
 
 This repository is a **core Dart sample for architecture review**. It is **not** a complete store-ready project.
@@ -39,7 +41,7 @@ This repository is a **core Dart sample for architecture review**. It is **not**
 ```
 lib/
 ├── app.dart / main.dart
-├── core/       # constants, disclaimer, signature guard, trading session…
+├── core/       # constants, disclaimer, signature guard, trading session
 ├── data/       # models, settings, alert history, cooldown, stock basic
 ├── mx/         # metrics extract + API client
 ├── rules/      # alert engine, thresholds, snapshot sanity
