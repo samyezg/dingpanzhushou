@@ -4,7 +4,7 @@ Hi, I'm Samye — a Flutter developer. This repo shows the core Dart architectur
 
 Flutter source slice for an A-share watchlist alert app: rule-based local notifications during continuous auction hours.
 
-This repository is a **core Dart sample for architecture review**. It is **not** a complete store-ready project.
+This repository is a **public source architecture sample** of a shipped app. It is **not** a store-ready clone (native Android/iOS projects are omitted). **All Rights Reserved** — viewing does not grant commercial reuse rights.
 
 **Not investment advice.** Not an official product of East Money (东方财富), any exchange, or any broker.
 
