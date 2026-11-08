@@ -1,0 +1,23 @@
+Copyright (c) 2026 叶志国 (Ye Zhiguo). All Rights Reserved.
+
+This repository is provided solely for portfolio review and verified-client
+architecture discussion.
+
+You may:
+  - View and discuss the source with the copyright holder’s prior permission
+    (e.g. after a project discussion on a freelance platform).
+
+You may NOT, without prior written permission from the copyright holder:
+  - Redistribute, sublicense, or re-publish this source (public or private)
+  - Use this source commercially, including cloning it as a competing product
+  - Remove or alter copyright, disclaimer, or attribution notices
+  - Represent this project as an official product of East Money / 东方财富
+    or any exchange or broker
+
+THIS SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
+It is not investment advice. Market data depends on third-party APIs and
+user-supplied keys; the author is not liable for trading losses or API misuse.
+
+Production Android/iOS native configuration, signing materials, and store
+builds are delivered separately as paid work and are intentionally omitted
+from this repository.
